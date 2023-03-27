@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The purpose of this analysis is to be able to **return different parts of a table of data that specifically match the user's filter criteria**. For the module, we were given a table of data consisting of the date of the UFO sighting, the city, state, and country it occurred in, the shape of the UFO, how long the observation lasted, and any comments associated with the observation. The goal was to create a website with HTML, CSS, and using the JavaScript language to make it more manageable for the end user to manipulate the data.
+The purpose of this analysis is to be able to **return different parts of a table of data that specifically match the user's filter criteria**. I was given a table of data consisting of the date of a UFO sighting, the city, state, and country it occurred in, the shape of the UFO, how long the observation lasted, and any comments associated with the observation. The goal was to create a website with HTML, CSS, and using the JavaScript language to make it more manageable for the end user to manipulate the data.
 
 ## Results
 
